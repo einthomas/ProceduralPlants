@@ -15,7 +15,7 @@
 #include <stdio.h>
 
 static int width = 1280, height = 720;
-static const char *title = "Plant thing";
+static const char *title = "Procedural plants";
 
 bool initGLEW();
 GLFWwindow *initGLFW();
